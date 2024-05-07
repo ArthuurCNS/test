@@ -1,2 +1,2 @@
 # test
-test 2
+Test d'un commit.
